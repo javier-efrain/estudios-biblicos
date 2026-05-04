@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Estudio | Expositiva</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <style>
+        .estudio-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .estudio-titulo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: var(--primary);
+        }
+        
+        .estudio-referencia {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            margin-bottom: 32px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid var(--border);
+        }
+        
+        .parte {
+            margin-bottom: 48px;
+        }
+        
+        .parte-titulo {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: var(--primary);
+            padding-left: 12px;
+            border-left: 4px solid var(--primary);
+        }
+        
+        .seccion {
+            margin-bottom: 32px;
+        }
+        
+        .seccion-titulo {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+        
+        .campo {
+            margin-bottom: 20px;
+        }
+        
+        .campo-label {
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 8px;
+            display: block;
+        }
+        
+        .campo-texto {
+            line-height: 1.6;
+            color: var(--text-primary);
+        }
+        
+        .posturas-grid {
+            display: grid;
+            gap: 16px;
+            margin-top: 16px;
+        }
+        
+        .postura-item {
+            background: var(--bg-primary);
+            padding: 16px;
+            border-radius: 12px;
+            border-left: 3px solid var(--primary);
+        }
+        
+        .postura-nombre {
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+        
+        .termino-card {
+            background: var(--bg-primary);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .termino-titulo {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 16px;
+        }
+        
+        .examen-item, .paso-item {
+            margin-bottom: 12px;
+            line-height: 1.5;
+        }
+        
+        .back-top-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 40px;
+            padding: 12px 20px;
+            cursor: pointer;
+            box-shadow: var(--card-shadow);
+            z-index: 100;
+        }
+        
+        @media (max-width: 640px) {
+            .estudio-container {
+                padding: 16px;
+            }
+            .estudio-titulo {
+                font-size: 1.4rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app">
+        <header class="header">
+            <div class="header-left">
+                <button class="back-btn" onclick="window.location.href='index.html'">← Volver</button>
+            </div>
+            <div class="header-right">
+                <button id="themeToggle" class="theme-btn" aria-label="Cambiar tema">🌙</button>
+            </div>
+        </header>
+
+        <main class="main">
+            <div class="estudio-container" id="estudioContainer">
+                <div class="loading-spinner">📖 Cargando estudio...</div>
+            </div>
+        </main>
+    </div>
+
+    <button class="back-top-btn" id="backTopBtn" style="display: none;">↑ Subir</button>
+
+    <script src="js/renderizador.js"></script>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const estudioId = urlParams.get('id');
+        
+        const container = document.getElementById('estudioContainer');
+        const backTopBtn = document.getElementById('backTopBtn');
+        
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backTopBtn.style.display = 'block';
+            } else {
+                backTopBtn.style.display = 'none';
+            }
+        });
+        
+        backTopBtn.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+        
+        async function cargarEstudio() {
+            if (!estudioId) {
+                container.innerHTML = '<div class="error-message">No se especificó ningún estudio.</div>';
+                return;
+            }
+            
+            container.innerHTML = '<div class="loading-spinner">📖 Cargando estudio...</div>';
+            
+            // Intentar cargar de apocalipsis o evangelios
+            let data = null;
+            try {
+                const response = await fetch(`data/apocalipsis/${estudioId}.json`);
+                if (response.ok) data = await response.json();
+            } catch (e) {}
+            
+            if (!data) {
+                try {
+                    const response = await fetch(`data/evangelios/${estudioId}.json`);
+                    if (response.ok) data = await response.json();
+                } catch (e) {}
+            }
+            
+            if (!data) {
+                container.innerHTML = '<div class="error-message">No se encontró el estudio solicitado.</div>';
+                return;
+            }
+            
+            // Usar el renderizador global
+            if (typeof renderizarEstudio === 'function') {
+                container.innerHTML = renderizarEstudio(data);
+            } else {
+                container.innerHTML = '<div class="error-message">Error: Renderizador no disponible.</div>';
+            }
+        }
+        
+        cargarEstudio();
+        
+        // Tema claro/oscuro
+        const themeToggle = document.getElementById('themeToggle');
+        themeToggle.addEventListener('click', () => {
+            document.body.classList.toggle('dark-theme');
+            const isDark = document.body.classList.contains('dark-theme');
+            themeToggle.textContent = isDark ? '☀️' : '🌙';
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+        
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'dark') {
+            document.body.classList.add('dark-theme');
+            themeToggle.textContent = '☀️';
+        }
+    </script>
+</body>
+</html>

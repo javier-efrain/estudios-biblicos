@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "id": "apocalipsis-1-1-8",
+    "libro": "Apocalipsis",
+    "titulo": "La revelación que nos revela",
+    "referencia": "Apocalipsis 1:1-8",
+    "categoria": "apocalipsis",
+    "orden": 1
+  },
+  "modulos": {
+    "tiene_posturas": true,
+    "tiene_armonizacion": false,
+    "tiene_exegesis": true,
+    "tiene_preguntas": true,
+    "tiene_aplicacion_practica": true,
+    "tiene_oracion": true
+  },
+  "parte_1": {
+    "titulo": "El Escenario (Contexto)",
+    "secciones": {
+      "contextos": {
+        "lugar": "Isla de Patmos (mar Egeo, frente a la costa de Éfeso). Una pequeña isla volcánica de 13 km de largo, usada por Roma como colonia penal para desterrados políticos.",
+        "fecha": "~95 d.C. (finales del reinado del emperador Domiciano, quien gobernó del 81 al 96 d.C.).",
+        "hora": " \"El día del Señor\" (1:10) – no es domingo por la mañana. Es un **estado profético**, un momento de éxtasis donde Juan es transportado en el Espíritu. La hora humana es de oscuridad (probablemente madrugada, cuando los presos eran despertados), pero la hora espiritual es de gloria.",
+        "historico_politico": "Domiciano exige ser llamado \"Señor y Dios\". Los cristianos que se niegan a ofrecer incienso a su estatua son ejecutados (Roma los quema vivos, los cose con pieles de animales, los crucifica). Juan, el último apóstol vivo, es desterrado a Patmos para picar mármol bajo el sol. No escribe desde un estudio cómodo; escribe con **manos ampolladas y espalda rota**.",
+        "cultural_teologico": "El género \"apocalipsis\" era conocido en el judaísmo (Daniel, 1 Enoc). Significa \"destapar, revelar\". No es un código secreto para adivinos, sino un **documento de resistencia no violenta**: muestra que el trono de Roma es una mentira; el único trono verdadero está en el cielo. La iglesia no debe derrocar al imperio con espadas, sino **testificar con sangre**.",
+        "conexiones_AT": [
+          "Daniel 7 (el Hijo del Hombre viniendo en las nubes)",
+          "Éxodo 19 (trono de fuego y truenos)",
+          "Zacarías 4 (los candelabros = iglesias).)"
+        ],
+        "conexiones_NT": [
+          "Jesús mismo usó lenguaje apocalíptico (Mateo 24). El prólogo de Juan (Juan 1:1-18) también habla de \"revelación\" (*logos*), pero aquí es *apokalypsis*: lo que estaba oculto ahora se muestra."
+        ]
+      },
+      "lente_lector": {
+        "error_comun": "Leer Apocalipsis como un **periódico del futuro**. No fue escrito para que descifres quién es el anticristo según las noticias de esta semana. Fue escrito para que **no adores al Estado ni a ningún poder que se levante contra Dios**.",
+        "posturas": {
+          "preterismo": "La \"revelación\" es principalmente sobre la caída de Jerusalén (70 d.C.) y Roma. Los eventos ya ocurrieron.",
+          "historicismo": "El libro describe toda la historia de la iglesia, desde Juan hasta el fin del mundo. Cada sello es una época.",
+          "futurismo": "Los caps 4-22 son aún futuros. El prólogo (cap 1) es la introducción. Es la postura más popular en el evangelicalismo pop.",
+          "idealismo": "El libro enseña **principios atemporales** sobre el conflicto entre el bien y el mal. No predice fechas, sino realidades espirituales."
+        },
+        "postura_estudio": "No exigimos que elijas una. Te enseñaremos las cuatro, y tú, bajo el liderazgo del Espíritu y en comunidad, formarás tu convicción. Pero una cosa es cierta en las cuatro: **Cristo viene, Cristo reina, Cristo juzga, Cristo salva**."
+      },
+      "dato_mentor": "Patmos tenía una mina a cielo abierto. Los presos dormían en cuevas y trabajaban 12-14 horas. La tradición dice que Juan fue desterrado allí, no por predicar el evangelio (eso era \"tolerado\"), sino porque **Domiciano lo sumergió en aceite hirviendo en Roma y al no morir, lo exilió**. ¿Histórico? Discutible. Pero la tradición captura algo cierto: este libro nace del sufrimiento, no de un seminario."
+    }
+  },
+  "parte_2": {
+    "titulo": "Exégesis (Términos Clave)",
+    "terminos": [
+      {
+        "numero": 1,
+        "titulo": "El género que todo lo cambia",
+        "cita_biblica": "Apocalipsis 1:1 – \"La revelación de Jesucristo, que Dios le dio...\"",
+        "termino_griego": "*Apokalypsis Iēsou Christou* (Ἀποκάλυψις Ἰησοῦ Χριστοῦ)",
+        "analisis": "**Análisis del significado original:** *Apokalypsis* significa \"quitar el velo, descubrir lo oculto\". No es un libro de \"cosas escondidas\" (como un código secreto), sino de **cosas que ahora se muestran**. La frase \"de Jesucristo\" es ambigua en griego: puede ser *revelación acerca de Jesucristo* (objetiva) o *revelación que viene de Jesucristo* (subjetiva). Juan juega con ambas: Jesús es el contenido Y el fuente. Dios Padre le da la revelación al Hijo, el Hijo la da al ángel, el ángel a Juan, Juan a la iglesia. Cuatro niveles de mediación. Dios no se esconde; **se revela en cadena de confianza**.",
+        "verdad_exegetica": "**Verdad Exegética:** Apocalipsis no es un rompecabezas para genios. Es un **regalo desenvuelto** para siervos. Si te sientes confundido, no es que Dios escondió las claves; es que necesitas humillarte como Juan: \"Soy vuestro hermano y compañero en la tribulación\" (1:9)."
+      },
+      {
+        "numero": 2,
+        "titulo": "La palabra que hizo el universo",
+        "cita_biblica": "Apocalipsis 1:2 – \"Juan ha testificado la palabra de Dios y el testimonio de Jesucristo.\"",
+        "termino_griego": "*Logos tou Theou* (Λόγος τοῦ Θεοῦ)",
+        "analisis": "**Análisis del significado original:** *Logos* no es solo \"una palabra hablada\". En el judaísmo helenístico (Filón) y en el NT (Juan 1:1), *Logos* es la **fuerza creadora y reveladora de Dios**. Cuando Juan dice que testifica el *Logos*, se conecta con el prólogo de su evangelio: \"En el principio era el *Logos*\". El mismo Jesús que creó las galaxias es el que ahora revela el fin de los tiempos. Hay una unidad cósmica: el que comenzó todo también lo concluye todo. No es casualidad que Apocalipsis termine con \"Hago nuevas todas las cosas\" (21:5). El *Logos* creador es el *Logos* restaurador.",
+        "verdad_exegetica": "**Verdad Exegética:** El estudio de Apocalipsis no es una curiosidad sobre el futuro. Es **teología de la creación aplicada al juicio**. El Dios que habló y existió la luz es el mismo que habla y juzgará a Babilonia. Sus palabras siempre son eficaces."
+      },
+      {
+        "numero": 3,
+        "titulo": "El testigo que murió por la palabra",
+        "cita_biblica": "Apocalipsis 1:2 – \"Juan ha testificado... todo lo que vio.\"",
+        "termino_griego": "*Emartyrēsen* (ἐμαρτύρησεν) / *martyria* (μαρτυρία)",
+        "analisis": "**Análisis del significado original:** La raíz *martyr-* en griego clásico significa \"testigo en un juicio\". En el NT, comenzó a significar **el que testifica aunque le cueste la vida**. De ahí nuestra palabra \"mártir\". Juan no solo \"dice lo que vio\"; **su vida entera es testimonio**. Está en Patmos precisamente por esto: testificó y no se retractó. El libro entero de Apocalipsis es un llamado a la *martyria*: no a buscar el martirio, pero a no huir de él si la fidelidad lo exige.",
+        "verdad_exegetica": "**Verdad Exegética:** No se entiende Apocalipsis desde un escritorio. Se entiende **de rodillas y, si es necesario, tras las rejas**. El testimonio no es información; es identidad."
+      },
+      {
+        "numero": 4,
+        "titulo": "El nombre impronunciable hecho promesa",
+        "cita_biblica": "Apocalipsis 1:4, 8 – \"El que es, el que era y el que ha de venir\" ... \"Yo soy el Alfa y la Omega, el que es, el que era y el que ha de venir, el Todopoderoso.\"",
+        "termino_griego": "*Ho ōn kai ho ēn kai ho erchomenos* (ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος) y *pantokratōr* (παντοκράτωρ)",
+        "analisis": "**Análisis del significado original:** Esta frase es una expansión del nombre divino de Éxodo 3:14 (\"Yo soy el que soy\"). En griego de la Septuaginta, Dios se llama *Ho Ōn* (\"El que es\"). Juan añade dos tiempos: *ho ēn* (\"el que era\" – pasado) y *ho erchomenos* (\"el que viene\" – futuro). No es un Dios estático. Es el Dios que **fue, es y será activo en la historia**. *Pantokratōr* (\"Todopoderoso\") no significa \"el que puede hacer cualquier cosa absurda\". Significa \"el que tiene autoridad sobre todo el orden creado\" (*kratos* = poder/gobernar). Es un título político: el emperador romano se creía *pantokratōr* sobre el mundo. Juan dice: \"No, tú no. Él sí.\"",
+        "verdad_exegetica": "**Verdad Exegética:** Apocalipsis es una **declaración de guerra teológica**. El nombre de Dios es la respuesta a la propaganda imperial. Cada vez que lees \"Todopoderoso\", imagina un dedo apuntando al trono de Roma y diciendo: \"Ese asiento está ocupado. Y no es tuyo.\""
+      }
+    ],
+    "dato_mentor": ""
+  },
+  "parte_3": {
+    "titulo": "El Aterrizaje (Vida y Aplicación)",
+    "verdad_central": "**Apocalipsis no fue escrito para satisfacer tu curiosidad sobre el futuro, sino para formar tu fidelidad en el presente. La revelación de Jesucristo te revela a ti mismo: ¿a quién sirves realmente?**",
+    "punto_tension": "Juan llama \"bienaventurado\" al que lee y guarda este libro (1:3). Pero el libro contiene juicios terribles, bestias aterradoras y un Cordero que parece guerrero. La tensión es: ¿cómo puede traer **felicidad** un libro que habla de **sufrimiento**? La respuesta es incómoda: la bienaventuranza no viene de evitar el dolor, sino de **saber que el dolor no tiene la última palabra**. Leer Apocalipsis te hace bien no porque te diga que todo estará bien, sino porque te dice que **Cristo estará bien, y tú con él, pase lo que pase**.",
+    "devocional": "Hay una manera de leer Apocalipsis que te convierte en un teólogo de salón. Tomas notas, comparas interpretaciones, debates sobre el milenio. Y todo eso puede ser bueno. Pero también puede ser una forma de **mantener el libro a distancia segura**. Mientras discutes si la bestia es un sistema o una persona, puedes evitar la pregunta incómoda: ¿estás, hoy, adorando a alguna bestia?\n\nPorque todos tenemos un César al que inclinarnos sin darnos cuenta. El César de la aprobación. El César del salario. El César del estatus en redes sociales. El César de \"tener la razón\" en debates teológicos. Y estos Césares no te piden incienso literal; te piden **lealtad exclusiva**. Te susurran: \"Si me obedeces, te protegeré. Si no, te cancelaré.\"\n\nJuan escribe desde una celda. No tiene nada que perder porque ya lo perdió todo por Cristo. Y desde ahí, te invita: \"Ven, mira el trono verdadero. El César que ves en las noticias tiene los días contados. El Rey que ves en esta visión tiene la eternidad por delante.\"\n\nLa pregunta del prólogo es sencilla y devastadora: **¿De quién es la revelación que dirige tu vida?** ¿De las noticias, de tus miedos, de tus ambiciones? ¿O de Jesucristo, el testigo fiel, el primogénito de los muertos, el gobernante de los reyes de la tierra?",
+    "examen": [
+      "¿Qué \"César\" en tu vida actual recibe más de tu tiempo, dinero y lealtad que Jesús?",
+      "Si ser cristiano te costara tu trabajo o tu reputación mañana, ¿cuál sería tu reacción inmediata: paz o pánico?",
+      "¿Has usado Apocalipsis alguna vez para especular sobre fechas o eventos futuros en lugar de para examinar tu propia fidelidad?",
+      "¿Qué poder humano (gobierno, jefe, familia, opinión pública) temes más que a Dios?",
+      "La palabra \"bienaventurado\" significa \"feliz, afortunado\". ¿Eres feliz leyendo Apocalipsis, o te produce ansiedad? ¿Qué dice eso sobre cómo lo estás leyendo?"
+    ],
+    "pasos_practicos": [
+      "**Escribe tu propio \"prólogo de Apocalipsis\"** en una hoja. No teológicamente, sino personal: \"Esto es lo que Dios me ha revelado sobre sí mismo este año...\" Compártelo con un amigo.",
+      "**Identifica una \"bestia\" pequeña esta semana.** Algo que te exige lealtad desmedida (el teléfono, el espejo, la tarjeta de crédito). Pon un límite concreto: una hora sin pantallas, un día sin mirarte al espejo, una compra que no harás.",
+      "**Lee Apocalipsis 1:4-8 en voz alta,** lentamente, cada día durante una semana. Cuando llegues a \"el que es, el que era y el que ha de venir\", haz una pausa y pregúntate: \"¿Qué problema de hoy es más grande que este Dios?\"",
+      "**Investiga a un cristiano perseguido** (Open Doors tiene listas). Ora por él/ella por su nombre. Luego pregunta: \"Si estuviera en su lugar, ¿mi fe resistiría?\"",
+      "**Comprométete a leer TODO Apocalipsis** (22 capítulos) en un mes. No para entenderlo todo, sino para **sumergirte en su mundo**. Usa este estudio como guía, no como reemplazo de la lectura directa."
+    ],
+    "oracion": "Señor Jesucristo, Testigo Fiel, Primogénito de los muertos, Gobernante de los reyes de la tierra. Me arrodillo ante Ti no porque sea fácil, sino porque es verdad.\n\nPerdona mis Césares pequeños. Perdona los altares que he construido al miedo, al qué dirán, a la necesidad de control. Perdona cuando he usado Tu libro como juguete de especulación en lugar de como espejo de mi alma.\n\nHoy recibo Tu revelación. No como un código secreto, sino como una carta de amor escrita desde Patmos, desde la cruz, desde la tumba vacía.\n\nEnséñame a leer Apocalipsis como Juan lo escribió: de rodillas, con las manos ampolladas, con los ojos puestos en Tu trono. Y que la bienaventuranza de este libro no sea un concepto para mí, sino una realidad: la felicidad de saber que Tú vienes, aunque hoy duela.\n\nVen, Señor Jesús. Pero mientras tanto, ayúdame a ser fiel. Amén.",
+    "dato_mentor": "La frase \"el que es, el que era y el que ha de venir\" (1:4) es única en toda la literatura antigua. Algunos manuscritos antiguos de Apocalipsis tienen una variante fascinante: en lugar de \"el que ha de venir\" (*erchomenos*), escriben \"el que viene\" (*erchomenos* mismo tiempo, pero sin artículo). Los copistas, al copiar, a veces cambiaban los tiempos verbales. ¿Por qué? Porque para la iglesia perseguida, **Cristo no solo \"ha de venir\" en un futuro lejano. Ya está viniendo, ahora, en cada oración, en cada martirio, en cada acto de fidelidad**. No esperes a que baje del cielo para empezar a vivir como si ya hubiera llegado."
+  }
+}

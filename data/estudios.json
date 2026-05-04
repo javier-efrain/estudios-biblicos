@@ -1,0 +1,32 @@
+{
+  "colecciones": [
+    {
+      "nombre": "🔥 NUEVOS ESTUDIOS",
+      "estudios": [
+        {
+          "id": "apocalipsis-1-1-8",
+          "referencia": "Apocalipsis 1:1-8",
+          "titulo": "La revelación que nos revela",
+          "imagen": "https://placehold.co/600x400/1e3c72/white?text=Apocalipsis+1:1-8"
+        }
+      ]
+    },
+    {
+      "nombre": "📖 NUEVO TESTAMENTO",
+      "estudios": [
+        {
+          "id": "apocalipsis-1-1-8",
+          "referencia": "Apocalipsis 1:1-8",
+          "titulo": "La revelación que nos revela",
+          "imagen": "https://placehold.co/600x400/1e3c72/white?text=Apocalipsis"
+        },
+        {
+          "id": "mateo-24-36-44",
+          "referencia": "Mateo 24:36-44",
+          "titulo": "La vigilancia del Hijo del Hombre",
+          "imagen": "https://placehold.co/600x400/2a5298/white?text=Mateo+24"
+        }
+      ]
+    }
+  ]
+}
