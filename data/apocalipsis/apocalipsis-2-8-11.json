@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "id": "apocalipsis-2-8-11",
+    "libro": "Apocalipsis",
+    "titulo": "La fidelidad en la pobreza",
+    "referencia": "Apocalipsis 2:8-11",
+    "categoria": "apocalipsis",
+    "orden": 4
+  },
+  "modulos": {
+    "tiene_posturas": true,
+    "tiene_armonizacion": false,
+    "tiene_exegesis": true,
+    "tiene_preguntas": true,
+    "tiene_aplicacion_practica": true,
+    "tiene_oracion": true
+  },
+  "parte_1": {
+    "titulo": "El Escenario (Contexto)",
+    "secciones": {
+      "contextos": {
+        "lugar": "Esmirna (actual İzmir, Turquía). Ciudad puerto estratégica, orgullosa de su lealtad a Roma. Tenía el templo más antiguo dedicado a la diosa Roma (195 a.C.) y un famoso templo a Zeus.",
+        "fecha": "~95 d.C. (mismo período que Éfeso, bajo Domiciano).",
+        "hora": "Juan sigue en \"el día del Señor\" (1:10), escribiendo cartas dictadas por el Cristo glorificado. Esmirna recibe su mensaje antes de que la ola de persecución la ahogue.\n",
+        "historico_politico": "Esmirna era **la ciudad más leal al imperio**. Negarse a decir \"César es el Señor\" era traición política. Los cristianos aquí no solo eran marginados, sino **delatados por judíos no creyentes** (a quienes Jesús llama \"sinagoga de Satanás\"). La presión no era opcional: o sacrificas al César o mueres.",
+        "cultural_teologico": "Esmirna es la única iglesia de las 7 que Jesús **no reprende por nada**. No hay \"pero tengo contra ti\". El problema no es su pecado, es su **sufrimiento**. Jesús los llama \"pobres\" (económicamente) pero \"ricos\" (espiritualmente). La teología aquí es cruda: **la fidelidad duele, y Dios no promete quitarte el dolor, sino estar en él**.",
+        "conexiones_AT": [
+          "Job es el arquetipo: perdió todo, fue calumniado por sus amigos, pero Dios lo llamó \"mi siervo fiel\". Esmirna es Job en versión iglesia."
+        ],
+        "conexiones_NT": [
+          "Jesús dijo: \"Bienaventurados los pobres en espíritu\" (Mateo 5:3). Y también: \"No temáis a los que matan el cuerpo\" (Mateo 10:28). Esmirna vive exactamente esas palabras."
+        ]
+      },
+      "lente_lector": {
+        "error_comun": "Romantizar el sufrimiento como si fuera \"la voluntad de Dios\" para todos. Jesús **no** dice \"busca el sufrimiento\". Dice \"cuando venga (y vendrá), no temas\". El sufrimiento no es el ideal; la **fidelidad en medio de él** sí lo es.",
+        "posturas": {
+          "preterismo": "Esmirna sufre bajo Domiciano. La \"muerte segunda\" prometida es para sus verdugos romanos que morirán sin resurrección.",
+          "historicismo": "Esmirna representa la era de los mártires (100-313 d.C.), cuando Roma persiguió sistemáticamente a la iglesia.",
+          "futurismo": "Esta carta describe una iglesia futura que sufrirá bajo el anticristo antes del arrebatamiento.",
+          "idealismo": "Esmirna es **todo creyente perseguido en toda época**. La promesa \"no recibirás daño de la muerte segunda\" es para quien muere por Cristo, sin importar cuándo."
+        },
+        "postura_estudio": "No exigimos que elijas una. Te enseñaremos las cuatro, y tú formarás tu convicción. Pero una cosa es cierta: Cristo viene, Cristo reina."
+      },
+      "dato_mentor": "El obispo Policarpo fue mártir en Esmirna alrededor del año 155 d.C. Cuando le pidieron que maldijera a Cristo para salvar su vida, respondió: \"Eighty and six years I have served Him, and He has done me no wrong. How can I blaspheme my King who saved me?\" Lo quemaron vivo. Sus verdugos no sabían que estaban leyendo Apocalipsis 2:10."
+    }
+  },
+  "parte_2": {
+    "titulo": "Exégesis (Términos Clave)",
+    "terminos": [
+      {
+        "numero": 1,
+        "titulo": "La paradoja de la verdadera riqueza",
+        "cita_biblica": "Apocalipsis 2:9 – \"Yo conozco tus obras, y tu tribulación, y tu pobreza (pero tú eres rico).\"",
+        "termino_griego": "*ptōcheian* (πτωχείαν)",
+        "analisis": "**Análisis del significado original:** Hay dos palabras griegas para \"pobre\". *Penia* es pobreza moderada (trabajas pero apenas llegas). *Ptōcheia* es **pobreza absoluta, de mendigo**, el que se encoge en las esquinas. Esmirna no es \"humildemente austera\", es **económicamente aniquilada** por haber perdido todo por no adorar al César. Y Jesús les dice \"pero tú eres rico\" (*plousios*). No es un consuelo espiritualista (\"tienes tesoros en el cielo, no importa tu hambre\"). Es una declaración de **realidad invertida**: a los ojos del imperio son basura; a los ojos de Dios, son los únicos verdaderos millonarios del universo.",
+        "verdad_exegetica": "**Verdad Exegética:** La pobreza por fidelidad no es una desgracia que Dios tolera; es una **posición de privilegio espiritual** que el mundo no puede ver. El que ha perdido todo por Cristo ha ganado todo."
+      },
+      {
+        "numero": 2,
+        "titulo": "La verdadera blasfemia",
+        "cita_biblica": "Apocalipsis 2:9 – \"Conozco la blasfemia de los que se dicen ser judíos y no lo son, sino sinagoga de Satanás.\"",
+        "termino_griego": "*blasphēmian* (βλασφημίαν) y *synagōgē tou Satana* (συναγωγὴ τοῦ Σατανᾶ)",
+        "analisis": "**Análisis del significado original:** *Blasphēmia* no es solo \"decir maldiciones\". En el NT, es **atribuir a Dios lo que no es de Dios**, o **negar el nombre de Dios con acciones**. Estos judíos (étnicos, circuncidados, sinagogueros) se llaman a sí mismos el pueblo de Dios, pero al delatar cristianos al imperio, están sirviendo al acusador (*Satanás* significa \"el acusador\"). Jesús no dice \"son gentiles\", dice \"son sinagoga de Satanás\". La palabra *synagōgē* (\"reunión\") es la misma que usa el judaísmo para su asamblea santa. Jesús la secuestra: su reunión no es de Dios, es del enemigo.",
+        "verdad_exegetica": "**Verdad Exegética:** La identidad religiosa externa (ser \"cristiano de toda la vida\", \"bautizado\", \"miembro de iglesia\") no garantiza pertenencia a Dios. Lo que importa es a quién sirves con tus acciones, no cómo te llamas."
+      },
+      {
+        "numero": 3,
+        "titulo": "La muerte que no mata",
+        "cita_biblica": "Apocalipsis 2:10 – \"Sé fiel hasta la muerte, y yo te daré la corona de la vida.\"",
+        "termino_griego": "*stephanon tēs zōēs* (στέφανον τῆς ζωῆς)",
+        "analisis": "**Análisis del significado original:** *Stephanos* no es una corona real de oro (que sería *diadēma*, la corona del rey). Es la **corona de laurel del atleta vencedor** en los juegos olímpicos. No es un símbolo de poder, sino de **esfuerzo completado**. Pablo usa la misma imagen: \"He peleado la buena batalla... me espera la corona de justicia\" (2 Timoteo 4:8). Jesús no promete una vida fácil; promete que cuando el atleta caiga muerto en la pista (literalmente: \"sé fiel hasta la muerte\"), Dios mismo le pondrá la corona del vencedor. Y esa corona es *zōē*: **vida en su sentido pleno**, no solo existencia. La muerte física no es el final; es la línea de meta.",
+        "verdad_exegetica": "**Verdad Exegética:** El martirio no es una tragedia que Dios \"permite\". Es el **momento de la coronación**. El que muere por Cristo no pierde la vida; la recibe en su forma más verdadera."
+      },
+      {
+        "numero": 4,
+        "titulo": "La muerte que sí importa",
+        "cita_biblica": "Apocalipsis 2:11 – \"El que venciere, no recibirá daño de la muerte segunda.\"",
+        "termino_griego": "*thanatos ho deuteros* (θάνατος ὁ δεύτερος)",
+        "analisis": "**Análisis del significado original:** La \"muerte segunda\" aparece solo en Apocalipsis (2:11; 20:6, 14; 21:8). No es \"morir otra vez\". Es el **lago de fuego**, el juicio final definitivo. La muerte primera (física) es universal: todos mueren. Pero para el que muere en Cristo, esa muerte es solo un **portal**. Para el que rechaza a Cristo, hay una muerte segunda: separación eterna, definitiva, sin retorno. Jesús promete a Esmirna: \"Ellos te matarán. Pero esa muerte no puede tocarte. La muerte que realmente importa (la separación de Dios) jamás te alcanzará.\"",
+        "verdad_exegetica": "**Verdad Exegética:** El creyente no debe temer a los que matan el cuerpo. El único terror legítimo es caer en las manos del Dios vivo después de rechazarle. Esmirna no necesita protección contra Roma; necesita protección contra la muerte segunda. Y ya la tiene."
+      }
+    ],
+    "dato_mentor": ""
+  },
+  "parte_3": {
+    "titulo": "El Aterrizaje (Vida y Aplicación)",
+    "verdad_central": "**La fidelidad a Cristo no garantiza una vida cómoda, pero garantiza que la muerte no tiene la última palabra. El sufrimiento por el evangelio no es señal de derrota, sino el escenario donde Dios corona a sus fieles.**",
+    "punto_tension": "Jesús **no** detiene la persecución. No promete sacarlos de la cárcel ni salvarles la vida. Les dice: \"Van a sufrir, algunos van a morir... **pero no teman**\". La tensión es brutal: ¿cómo no temer a algo que realmente va a suceder y va a doler? La respuesta de Jesús no es \"no pasará\", sino \"estaré contigo cuando pase, y lo que viene después es infinitamente mejor\".",
+    "devocional": "Hay una mentira sutil que a veces creemos sin decirla en voz alta: \"Si soy fiel, Dios me protegerá del dolor.\" No es que Dios no pueda proteger. Es que a veces su protección no significa evitar la herida, sino **estar en la herida contigo**.\n\nEsmirna no recibió un milagro de escape. Recibieron la visita de Jesús en la celda. Recibieron la fortaleza para no renunciar cuando les quemaban las espaldas con hierros candentes. Recibieron la certeza de que el verdugo no tiene autoridad sobre el alma.\n\nY tú, que quizás no enfrentas un león en el coliseo pero enfrentas un jefe que te hostiga por tu fe, o una familia que se burla, o una enfermedad que te consume lentamente... Jesús te dice lo mismo que a Esmirna: \"Yo conozco tu tribulación.\" No es un Dios distante que observa desde el cielo cómo sufres. Es el Dios que **bajó a la cruz** para mostrarte que el sufrimiento no lo asusta. Y te promete: \"Diez días\" (un tiempo limitado, aunque ahora parezca eterno). La prueba no durará para siempre. Pero la corona, sí.",
+    "examen": [
+      "¿Qué has dejado de hacer (o de decir) por miedo a lo que otros pensarían o harían contra ti?",
+      "Si supieras que profesar a Cristo abiertamente te costaría tu trabajo o tu reputación mañana, ¿lo harías?",
+      "¿Hay algún \"César\" en tu vida (persona, institución, miedo) al que le estás rindiendo lealtad que solo le pertenece a Cristo?",
+      "¿Cuándo fue la última vez que te sentiste \"pobre\" a los ojos del mundo pero \"rico\" en tu relación con Dios?",
+      "Si murieras esta noche, ¿tienes la certeza de que la muerte segunda no te tocará? ¿O hay algo sin resolver entre tú y Dios?"
+    ],
+    "pasos_practicos": [
+      "**Identifica tu \"Smyrna moment\"** esta semana: un lugar donde hablar de Jesús te cuesta. Escríbelo. Luego escribe al lado: \"¿Qué es lo peor que podría pasar?\" y \"¿Qué promesa de Jesús me sostiene ahí?\"",
+      "**Lee las historias de tres mártires** (uno del siglo I, uno del siglo XX, uno contemporáneo). Pregúntate: ¿Qué tenían que yo no tengo? (Sugerencia: Policarpo, Jim Elliot, los 21 coptos libios).",
+      "**Haz una lista de tus \"riquezas\"** a los ojos del mundo (salud, cuenta bancaria, reputación). Luego haz una lista de tus \"riquezas\" a los ojos de Dios (perdón, Espíritu Santo, esperanza). Compara cuál lista te importa más en tu día a día.",
+      "**Practica la \"corona del atleta\"** : elige una disciplina espiritual que te cueste (orar 15 minutos, memorizar un versículo, ayunar una comida). Hazlo cada día por 10 días (como los \"diez días\" de tribulación en Esmirna). Al final, celebra no el resultado, sino la fidelidad.",
+      "**Escribe una carta a un cristiano perseguido** (puedes buscar organizaciones como Open Doors o Voice of the Martyrs). No para darle consejos, sino para decirle: \"No estás solo. Tu fidelidad me desafía.\""
+    ],
+    "oracion": "Señor Jesús, Tú ves mi tribulación. Tú sabes dónde me duele, dónde me callo por miedo, dónde he cambiado mis palabras para que otros no se incomoden. Perdona mi temor. No te pido que me quites la prueba (aunque quisiera). Te pido lo que le diste a Esmirna: **valor para ser fiel hasta el final**. Recuérdame cada mañana que la muerte primera no es mi fin, porque Tú ya venciste la muerte segunda en la cruz. Que mi vida (y si es necesario, mi muerte) sea una corona que ponga a tus pies. No porque yo sea fuerte, sino porque Tú eres fiel, aunque yo flaquee. Amén.",
+    "dato_mentor": "En la antigua Esmirna, los atletas vencedores recibían una corona de hojas de apio (no de laurel). Esa corona se marchitaba en días. Jesús promete una corona que nunca se marchita. Pero hay más: los atletas competían *por* la corona. Los cristianos de Esmirna recibían la corona *por haber sido fieles hasta la muerte*. No es un premio por rendimiento; es un **regalo por perseverancia**. La diferencia entre \"ganar\" y \"recibir\" es el evangelio."
+  }
+}

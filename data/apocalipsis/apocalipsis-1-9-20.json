@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "id": "apocalipsis-1-9-20",
+    "libro": "Apocalipsis",
+    "titulo": "El Cristo glorificado en medio de las iglesias",
+    "referencia": "Apocalipsis 1:9-20",
+    "categoria": "apocalipsis",
+    "orden": 2
+  },
+  "modulos": {
+    "tiene_posturas": true,
+    "tiene_armonizacion": false,
+    "tiene_exegesis": true,
+    "tiene_preguntas": true,
+    "tiene_aplicacion_practica": true,
+    "tiene_oracion": true
+  },
+  "parte_1": {
+    "titulo": "El Escenario (Contexto)",
+    "secciones": {
+      "contextos": {
+        "lugar": "Isla de Patmos (mar Egeo). Juan sigue desterrado, probablemente en una cueva usada como celda. La visión ocurre \"en el Espíritu\", no en un templo ni en una sinagoga. El cielo baja a una prisión.",
+        "fecha": " ~95 d.C. (mismo contexto que Estudio #1: finales de Domiciano).",
+        "hora": "\"El día del Señor\" (1:10). No es domingo en el sentido litúrgico posterior. En el judaísmo, el \"día del Señor\" (*yom YHWH*) era el día del juicio y la salvación (Isaías 13, Joel 2). Juan experimenta **ese día proféticamente**: el juicio y la salvación se despliegan ante sus ojos en tiempo real.",
+        "historico_politico": "Juan llama a sus lectores \"compañeros en la tribulación\" (1:9). La palabra *thlipsis* significa \"presión, aplastamiento\". No es una metáfora. Los cristianos en Asia Menor estaban siendo **aplastados** por el imperio: pérdida de empleos, confiscación de bienes, ejecuciones. Juan no escribe desde arriba; escribe desde el fondo del pozo, y su mensaje es: \"En el fondo del pozo, vi el rostro de Cristo.\"\n",
+        "cultural_teologico": "La visión del Hijo del Hombre en medio de candelabros toma imágenes del AT (Daniel 7, Ezequiel 1, Éxodo 28). Pero hay un giro radical: en lugar de un templo con un candelabro central (la menorá), hay **siete candelabros individuales**, y Cristo camina **entre** ellos. No está en el Lugar Santísimo distante; está en medio de sus iglesias sufrientes. La teología aquí es encarnacional: el Cristo glorificado no abandonó su humanidad; sigue presente en la fragilidad de las congregaciones.\n",
+        "conexiones_AT": [
+          "Daniel 7:9-14 (el Anciano de Días, el Hijo del Hombre).",
+          "Daniel 10:5-6 (la apariencia gloriosa del ángel).",
+          "Éxodo 28 (las vestiduras del sumo sacerdote).",
+          "Ezequiel 1 (la voz como estruendo de muchas aguas)."
+        ],
+        "conexiones_NT": [
+          "Mateo 17:2 (la transfiguración de Jesús).",
+          "Mateo 28:18 (\"Toda potestad me es dada\").",
+          "Juan 1:51 (\"Veréis el cielo abierto\")."
+        ]
+      },
+      "lente_lector": {
+        "error_comun": "Enfocarse tanto en los detalles simbólicos (¿qué significa la espada de dos filos? ¿el cabello blanco?) que se pierde el **impacto emocional**: Juan cae como muerto. Esta visión no es para entretener la mente, sino para **quebrantar el espíritu**.\n",
+        "posturas": {
+          "preterismo": "La visión describe el juicio de Cristo sobre Israel y Roma en el siglo I. Los candelabros son iglesias literales del primer siglo.",
+          "historicismo": "Las siete iglesias representan siete eras de la historia de la iglesia. Cristo camina a través de todas.",
+          "futurismo": " La visión es literal y futura: un Cristo físico que aparecerá en los últimos días.",
+          "idealismo": "La visión revela la **naturaleza eterna de Cristo** en relación con su iglesia: glorioso, santo, presente, y aterrador para el pecado."
+        },
+        "postura_estudio": "Independientemente de tu marco, lo que **todos** los intérpretes coinciden es: Cristo está aquí. Cristo es glorioso. Cristo tiene autoridad sobre la muerte. Cristo sostiene a sus iglesias. Eso no es opinión; es el texto."
+      },
+      "dato_mentor": "Las vestiduras de Cristo (1:13) – el *podērēs* – eran la túnica larga del sumo sacerdote. Pero el cinturón de oro no estaba en el AT; los sacerdotes usaban cinturón de lino. El cinturón de oro era **real**. Jesús no es solo sacerdote; es **sacerdote-rey**, como Melquisedec. Nadie en el judaísmo podía ser ambas cosas. Jesús sí. Y eso lo hacía peligroso para Roma y para el templo."
+    }
+  },
+  "parte_2": {
+    "titulo": "Exégesis (Términos Clave)",
+    "terminos": [
+      {
+        "numero": 1,
+        "titulo": "La voz que rompe el silencio del exilio",
+        "cita_biblica": "Apocalipsis 1:10 – \"Oí detrás de mí una gran voz como de trompeta.\"",
+        "termino_griego": "*Phōnēn megalēn hōs salpingos* (φωνὴν μεγάλην ὡς σάλπιγγος)",
+        "analisis": "**Análisis del significado original:** La *salpinx* (trompeta) en el AT tenía dos usos: **reunir al pueblo** (Números 10) y **anunciar juicio** (Joel 2:1). Juan está solo en Patmos, separado de su comunidad. Pero la trompeta no lo llama a ir a algún lado; la voz está *detrás* de él. Literalmente: lo que Juan ve (la visión) solo tiene sentido después de escuchar la voz. Primero la llamada, luego la revelación. Y esa voz es \"grande\" (*megalēn*) – no en volumen solamente, sino en **autoridad**. No es un ángel hablando. Es el mismo que hizo temblar el Sinaí.",
+        "verdad_exegetica": "**Verdad Exegética:** Antes de ver la gloria de Cristo, necesitas escuchar su llamada. La revelación no es para curiosos; es para **obedientes**. Juan no estaba buscando una visión; estaba adorando en el día del Señor. La voz llegó mientras él estaba en posición de recibirla."
+      },
+      {
+        "numero": 2,
+        "titulo": "Las estrellas en la mano derecha",
+        "cita_biblica": "Apocalipsis 1:16, 20 – \"Tenía en su diestra siete estrellas\" ... \"Las siete estrellas son los ángeles de las siete iglesias.\"",
+        "termino_griego": "*Asteras* (ἀστέρας) y *angeloi* (ἄγγελοι)",
+        "analisis": "**Análisis del significado original:** *Angeloi* puede significar \"mensajeros\" – posiblemente los pastores/obispos de cada iglesia, o los espíritus guardianes de las congregaciones. Pero lo impactante es la **diestra** (*dexios*). En el mundo romano, estar a la diestra del emperador era el más alto honor. Tener **en** la diestra (sosteniendo, no junto a) indica **posesión y protección absolutas**. Las iglesias no están sueltas en el mundo, sujetas a los caprichos de Roma. Están **en el puño de Cristo**. Nadie las arranca de ahí (Juan 10:28-29). Las estrellas también simbolizan autoridad (Daniel 12:3) – los líderes de la iglesia brillan, pero solo porque Cristo los sostiene.",
+        "verdad_exegetica": "**Verdad Exegética:** La seguridad de la iglesia no depende de la fortaleza de sus líderes, ni de la tolerancia del imperio, ni de la fidelidad de sus miembros. Depende de **la mano derecha de Cristo**. Si él te sostiene, nadie te mueve. Si él te suelta (como a Éfeso en 2:5), no hay poder humano que te mantenga de pie."
+      },
+      {
+        "numero": 3,
+        "titulo": "a espada que sale de la boca",
+        "cita_biblica": "Apocalipsis 1:16 – \"De su boca salía una espada aguda de dos filos.\"",
+        "termino_griego": "*Rhomphaia distomos* (ῥομφαία δίστομος)",
+        "analisis": "**Análisis del significado original:**  La *rhomphaia* no era una espada corta romana (*gladius*). Era una **espada larga tracia**, usada para cortar en lugar de apuñalar, capaz de decapitar de un solo golpe. Los romanos la consideraban un arma bárbara. Pero Juan no está pensando en armas romanas. Está pensando en Isaías 49:2 (\"Hizo mi boca como espada aguda\") y en Hebreos 4:12 (\"La palabra de Dios es viva y eficaz, más cortante que toda espada de dos filos\"). La espada **no está en su mano** (como guerrero). Está en su **boca** (como juez que sentencia con palabras). Cristo no conquista con ejércitos; conquista con **la verdad que juzga y salva**. Lo que él declara, ocurre. Cuando dice \"venid, benditos\", el cielo se abre. Cuando dice \"apartaos, malditos\", el infierno traga.",
+        "verdad_exegetica": "**Verdad Exegética:** La guerra de Cristo no es con metralla, sino con **palabras**. Y esas palabras son más afiladas que cualquier arma humana. Cuando la iglesia predica el evangelio, está manejando la espada de Cristo. No necesitamos tanques. Necesitamos fidelidad al texto."
+      },
+      {
+        "numero": 4,
+        "titulo": "Las llaves de la muerte y del Hades",
+        "cita_biblica": " Apocalipsis 1:18 – \"Tengo las llaves de la muerte y del Hades.\"",
+        "termino_griego": "*Kleidas tou thanatou kai tou hadou* (κλεῖδας τοῦ θανάτου καὶ τοῦ ᾅδου)",
+        "analisis": "**Análisis del significado original:** En el mundo greco-romano, las llaves eran símbolo de **autoridad absoluta**. La diosa Hécate tenía las llaves del inframundo. Los emperadores romanos tenían llaves de ciudades conquistadas. Tener la llave = poder de abrir y cerrar, de entrar y salir. *Hades* no es \"infierno\" en el sentido de fuego eterno (eso es *Gehenna*). Es el **lugar de los muertos**, el sepulcro, la oscuridad donde van todos (justos e injustos) en el AT. Cristo declara: \"Estuve allí (muerto). Salí. Ahora controlo la puerta.\" Nadie entra al Hades sin su permiso. Nadie sale de la tumba sin su orden. La muerte ya no es un callejón sin salida; es un **pasillo con llave**, y Cristo la tiene.\n",
+        "verdad_exegetica": "**Verdad Exegética:** El cristiano no debe temer a la muerte porque **Cristo le quitó las llaves al sepulturero**. La muerte no te encierra; te libera para estar con él. Y si él tiene la llave del Hades, también tiene la llave de tu presente: tu sufrimiento no está fuera de su control. Él abre puertas que nadie cierra (Filadelfia) y cierra puertas que nadie abre.\n"
+      },
+      {
+        "numero": 5,
+        "titulo": "Caer como muerto para ser levantado",
+        "cita_biblica": " Apocalipsis 1:17 – \"Cuando le vi, caí como muerto a sus pies.\"",
+        "termino_griego": "*Epesa pros tous podas autou hōs nekros* (ἔπεσα πρὸς τοὺς πόδας αὐτοῦ ὡς νεκρός)",
+        "analisis": "**Análisis del significado original:** Esta es la **respuesta humana correcta** ante la teofanía. Cuando Isaías vio al Señor, gritó: \"¡Ay de mí! Soy muerto!\" (Isaías 6:5). Cuando Ezequiel vio la gloria, cayó rostro en tierra (Ezequiel 1:28). Pero aquí hay un detalle único: la mano derecha que sostiene las estrellas **se extiende para tocar a Juan**. \"No temas\" (*mē phobou*) – la misma frase que Jesús dijo a los discípulos en la tormenta (Mateo 14:27). El contacto de la mano derecha no quema a Juan; lo **resucita**. Caer como muerto es el primer paso para ser levantado a una nueva posición: ya no siervo temblando, sino **hermano del Señor glorificado**.\n",
+        "verdad_exegetica": "**Verdad Exegética:** La gloria de Cristo no está diseñada para dejarte cómodo. Está diseñada para **matar tu suficiencia propia**. Pero el mismo que te mata con su presencia te levanta con su toque. El evangelio no es \"mejórate\". Es \"muere, y yo te daré vida verdadera\"."
+      }
+    ],
+    "dato_mentor": ""
+  },
+  "parte_3": {
+    "titulo": "El Aterrizaje (Vida y Aplicación)",
+    "verdad_central": "**El Cristo glorificado que sostiene las estrellas y tiene las llaves de la muerte es el mismo que se acerca a ti en tu Patmos personal, pone su mano sobre tu hombro caído y te dice: \"No temas.\" Su gloria no te destruye; te restaura.**",
+    "punto_tension": "Jesús se aparece a Juan con una imagen aterradora: cabello blanco como nieve (juicio), ojos como llama de fuego (penetración total), pies como bronce fundido (juicio aplastante), espada en la boca (sentencia ejecutiva). Y sin embargo, la primera palabra que sale de esa boca después de identificarse es: **\"No temas\"**. La tensión es: ¿cómo no temer ante un juez tan imponente? La respuesta es que **el juez es también el que murió por ti**. Su gloria no está reñida con su gracia; son dos caras de la misma moneda: el Cordero que fue inmolado es el León que juzga. Y ese León te dice \"no temas\" porque ya pagó tu multa.",
+    "devocional": "Juan era el apóstol del pecho de Jesús. En la Última Cena, se recostó sobre Él. Escuchó su latido. Llamó al Verbo hecho carne. Y ahora, décadas después, ve al mismo Jesús con una apariencia tan abrumadora que se desploma como muerto.\n\n¿Qué cambió? Jesús no cambió. Juan sí. En la tierra, Jesús ocultaba su gloria para que pudieran estar cerca de Él. En Patmos, la levanta, y Juan descubre que **no estaba listo para ver a quien llevaba años amando**.\n\nTú y yo somos como Juan. Cantamos \"Cuán grande es Él\" en la iglesia. Leemos los Salmos. Nos sentimos cerca de Jesús. Pero si él se apareciera ahora mismo en tu habitación con el cabello blanco y los ojos de fuego, ¿caerías como muerto? La respuesta honesta debería ser sí. Y eso no es malo. Es el primer paso para **dejar de tratar a Jesús como un amigo genial y empezar a tratarlo como el Rey que es**.\n\nÉl no te dice \"levántate y sé mejor\". Te toca con la mano que sostiene las galaxias y te dice: \"No temas.\" No porque no haya razón para temer (la hay: eres pecador ante el Santo). Sino porque **Él mismo ha quitado la razón para temer**. Murió. Resucitó. Tiene las llaves. Tu muerte ya no es tu dueña. Tu presente ya no está fuera de control. Él está **en medio** de tus candelabros rotos: tu matrimonio frágil, tu iglesia dividida, tu corazón dudoso. Y desde ahí, con toda su gloria, susurra: \"Yo soy el primero y el último. Y estoy contigo.\"",
+    "examen": [
+      "¿Has reducido a Jesús a un \"amigo personal\" que no te incomoda ni te confronta? ¿Cuándo fue la última vez que su gloria te hizo caer de rodillas (literal o figurativamente)?",
+      "¿Qué \"Patmos\" estás viviendo ahora? ¿Qué lugar de soledad, pérdida o presión te ha hecho sentir abandonado por Dios?",
+      "Si Jesús te mostrara hoy un área de tu vida con sus \"ojos como llama de fuego\" (revelación total), ¿qué crees que vería? ¿Qué escondes?",
+      "¿Tienes miedo a la muerte? ¿O has delegado ese miedo a otras cosas (envejecer, enfermedad, fracaso) porque la muerte real te parece muy lejana?",
+      "Las siete estrellas están en su mano derecha. ¿Vives como si tu líder espiritual o tu iglesia estuvieran seguros? ¿O vives como si todo dependiera de tu esfuerzo?"
+    ],
+    "pasos_practicos": [
+      "**Dibuja o escribe tu propia \"visión de Cristo glorificado\".** No artísticamente, sino teológicamente: ¿Qué atributos de Jesús necesitas ver hoy con claridad? (¿Su autoridad? ¿Su santidad? ¿Su presencia en tu sufrimiento?) Pon esa lista en un lugar visible.",
+      "**Esta semana, lee Apocalipsis 1:9-20 en voz alta,** pero cambia los pronombres: \"Vi a Alguien semejante al Hijo del Hombre... y *me* puso su mano derecha sobre *mí*\". Personaliza la visión.",
+      "**Identifica tu \"mano derecha vacía\".** ¿Qué estás tratando de sostener tú solo (tu reputación, tu familia, tu salud)? Ahora imagina la mano de Cristo cerrada sobre eso. Suelta. Literalmente: abre tu mano mientras oras.",
+      "**Pasa 15 minutos en silencio** ante la pregunta: \"Si Cristo me dijera 'No temas' ahora mismo, ¿qué miedo específico estaría él contradiciendo?\" Escríbelo. Luego escribe al lado: \"Pero él tiene las llaves de...\"",
+      "**Haz una \"inventario de candelabros\".** Escribe los nombres de 3-5 personas o grupos en los que tienes influencia espiritual (tus hijos, tu grupo pequeño, un amigo no creyente). Pregúntate: ¿Cristo está \"en medio\" de ellos o los he dejado solos?"
+    ],
+    "oracion": "Señor Jesucristo, Hijo del Hombre, Sumo Sacerdote, Rey de reyes.\n\nConfieso que te he domesticado. Te he convertido en un Jesús de bolsillo, cómodo, que no me asusta ni me confronta. He cantado sobre tu gloria sin esperar encontrármela. He hablado de tu muerte sin temblar ante tu vida resucitada.\n\nPero hoy, con Juan en Patmos, te pido: **muéstrame quién eres realmente**. No solo el amigo que camina conmigo, sino el Juez que tiene ojos de fuego. No solo el pastor que me consuela, sino el guerrero que tiene espada en la boca.\n\nY cuando caiga como muerto ante tu presencia (porque caeré), extiende tu mano derecha. La misma que sostiene las estrellas. La misma que fue clavada por mí. Dime: \"No temas.\" Y entonces, y solo entonces, podré levantarme no como Juan el dudoso, sino como Juan el testigo.\n\nPorque tú vives. Tú reinas. Tú tienes las llaves. Y yo, aunque muera, viviré. Amén.",
+    "dato_mentor": " La frase \"el primero y el último\" (1:17) no es un título genérico. En Isaías 44:6, es el título exclusivo de **Yahvé**: \"Yo soy el primero y el último, y fuera de mí no hay Dios.\" Cuando Jesús toma este título, está diciendo algo que el judaísmo consideraba imposible: **él es Yahvé encarnado**. Pero hay un detalle más: en el griego, *prōtos* (primero) y *eschatos* (último) son términos que también usaban los emperadores romanos para describir su poder universal. Domiciano se llamaba a sí mismo *dominus et deus* (\"señor y dios\"), pero jamás se atrevió a decir \"el primero y el último\". Jesús sí. Y lo dice **desde la muerte derrotada**. El emperador moría y se pudría. Jesús murió y ahora vive \"por los siglos de los siglos\". Eso es una declaración de guerra política."
+  }
+}
