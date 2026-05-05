@@ -39,10 +39,16 @@
           "imagen": "https://placehold.co/600x400/1e3c72/white?text=Apocalipsis"
         },
         {
-          "id": "mateo-24-36-44",
-          "referencia": "Mateo 24:36-44",
-          "titulo": "La vigilancia del Hijo del Hombre",
+          "id": "mateo-25-31-46",
+          "referencia": "Mateo 25:31-46",
+          "titulo": "Final del sermon parusiaco",
           "imagen": "https://placehold.co/600x400/2a5298/white?text=Mateo+24"
+        },
+        {
+          "id": "marcos-12-41-44-lucas-21-1-4",
+          "referencia": "Marcos 12:41-44 / Lucas 21:1-4",
+          "titulo": "la ofrenda de la viuda",
+          "imagen": "https://placehold.co/600x400/2a5298/white?text=Marcos+12:41-44"
         }
       ]
     }

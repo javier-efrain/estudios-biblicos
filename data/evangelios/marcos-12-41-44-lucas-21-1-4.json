@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "id": "marcos-12-41-44-lucas-21-1-4",
+    "libro": "Evangelios",
+    "titulo": "La ofrenda de la viuda",
+    "referencia": "Marcos 12:41-44 / Lucas 21:1-4",
+    "categoria": "evangelios",
+    "orden": 2
+  },
+  "modulos": {
+    "tiene_posturas": false,
+    "tiene_armonizacion": true,
+    "tiene_exegesis": true,
+    "tiene_preguntas": true,
+    "tiene_aplicacion_practica": true,
+    "tiene_oracion": true
+  },
+  "parte_1": {
+    "titulo": "El Escenario (Contexto)",
+    "secciones": {
+      "contextos": {
+        "lugar": "**El Atrio de las Mujeres** en el **Templo de Jerusalén**. Allí estaban las 13 alcancías con forma de trompeta (llamadas *shofarot*) para las ofrendas voluntarias. Este atrio era lo más lejos que podían llegar las mujeres judías en el complejo del Templo.",
+        "fecha": "**Martes de la Semana Santa**, aproximadamente **3 días antes de la crucifixión** (Marcos 11–12 sitúa este evento el martes, tras la maldición de la higuera y las controversias con los líderes religiosos).",
+        "hora": "**Media tarde**, probablemente entre las **3:00 p.m. y 4:00 p.m.** (la hora novena judía, cercana a la oración de la tarde). Jesús \"estaba sentado\" observando, lo que indica un momento de descanso docente después de intensos debates matutinos.",
+        "historico_politico": "Judea bajo dominio romano con **Herodes Antipas** como tetrarca de Galilea y **Poncio Pilato** como prefecto de Judea. El Templo era administrado por la familia sacerdotal de **Anás y Caifás**, quienes habían convertido el sistema de ofrendas en un negocio corrupto (Jesús había limpiado el Templo apenas 24 horas antes, Marcos 11:15-17). Los pobres eran aplastados por diezmos, impuestos del Templo (el *medio siclo* anual) y ofrendas presionadas socialmente.",
+        "cultural_teologico": "El sistema de ofrendas judío distinguía entre:\n- **Diezmos** (obligatorios: Levítico 27:30)\n- **Ofrendas voluntarias** (libres)\n- **Ofrenda del Templo** (medio siclo para el mantenimiento)\n\nHabía una **teología de la prosperidad judía** (Deuteronomio 28) que asociaba bendición económica con fidelidad. Por tanto, una viuda pobre era vista como \"maldita por Dios\" (no había varón que la protegiera ni recursos que demostraran bendición). Dar dos *lepta* (la moneda más pequeña) era un acto **teológicamente subversivo**: demostraba que la relación con Dios no dependía de la bendición visible.",
+        "conexiones_AT": [
+          "**1 Reyes 17:8-16** – La viuda de Sarepta da su último puñado de harina a Elías. Mismo patrón: el \"todo\" de una viuda pobre es más valioso que la abundancia de los ricos.",
+          "**Deuteronomio 10:18** – Dios \"hace justicia al huérfano y a la viuda\". Aquí Jesús invierte la lógica: la viuda no recibe justicia *de* Dios, sino que ella *demuestra* justicia al dar todo.",
+          "**Levítico 5:7** – El pobre puede ofrecer dos tórtolas si no puede un cordero. Principio: Dios acepta ofrendas proporcionales, no absolutas."
+        ],
+        "conexiones_NT": [
+          "**2 Corintios 8:1-5** – Las iglesias de Macedonia \"en profunda pobreza abundaron en riqueza de generosidad\". Pablo repite la teología de Marcos 12.",
+          "**Lucas 21:1-4** – Versión paralela (mismo evento, probablemente fuente Q o tradición común).",
+          "**Santiago 2:5** – \"¿No ha elegido Dios a los pobres del mundo para ser ricos en fe?\" – eco directo de esta viuda."
+        ],
+        "dato_mentor": "Las dos moneditas de la viuda se llamaban **lepta** (singular *leptón*, \"delgado\", \"diminuto\"). Un *leptón* valía 1/128 de un denario (un jornalero ganaba un denario al día). Es decir, **lo que ella dio equivalía a 6 minutos de trabajo**. Pero aquí viene lo explosivo: los arqueólogos han encontrado *lepta* acuñados por los asmoneos (siglo I a.C.) que tenían inscripciones paganas. Algunos rabinos consideraban que ofrecer esas monedas en el Templo era **impuro**. Si esta viuda ofreció *lepta* viejos, su acto era doblemente peligroso: se quedaba sin nada Y arriesgaba su purecia ritual. Jesús no solo la defiende, sino que la canoniza como modelo de fe."
+      },
+      "armonizacion": {
+        "texto_continuo": "Estando Jesús sentado delante del arca del tesoro, levantando los ojos, observaba cómo la gente echaba dinero en el arca ¹. Y veía a muchos ricos que echaban mucho. En esto, vino una viuda pobre y echó dos blancas, que es un cuadrante ². Entonces, llamando a sus discípulos, les dijo: \"De cierto os digo que esta viuda pobre echó más que todos los que han echado en el arca; porque todos han echado de lo que les sobra; pero esta, de su pobreza echó todo lo que tenía, todo su sustento\" ³.",
+        "fuentes": [
+          {
+            "nota": 1,
+            "referencia": "Mr 12:41 / Lc 21:1"
+          },
+          {
+            "nota": 2,
+            "referencia": "Mr 12:42 / Lc 21:2"
+          },
+          {
+            "nota": 3,
+            "referencia": "Mr 12:43-44 / Lc 21:3-4"
+          }
+        ]
+      },
+      "dato_mentor": "El \"arca del tesoro\" no era una caja, sino trece alcancías con forma de trompeta (*shofarot*) en el Atrio de las Mujeres. Cada una tenía un propósito específico: madera, incienso, mantenimiento del templo, etc. La viuda no solo dio todo su dinero, sino que probablemente tuvo que **decidir en qué trompeta depositar sus dos monedas**. Esa elección invisible también era un acto de fe."
+    }
+  },
+  "parte_2": {
+    "titulo": "Exégesis (Términos Clave)",
+    "terminos": [
+      {
+        "numero": 1,
+        "titulo": "sustento\" / \"vida",
+        "cita_biblica": "Marcos 12:44 – \"echó todo lo que tenía, todo su sustento\"",
+        "termino_griego": "βίος (transliterado: *bíos*)",
+        "analisis": "**Análisis del significado original:** *Bíos* no significa simplemente \"dinero\" o \"posesiones\". Se refiere a **los medios necesarios para mantener la vida misma**: comida, techo, lo indispensable para respirar otro día. En la literatura griega clásica, *bíos* es toda la existencia material de una persona. Cuando un médico griego hablaba de \"sostener el *bíos*\", se refería a mantener el corazón latiendo. Marcos usa esta palabra intencionalmente: la viuda no dio sus ahorros ni su excedente. Dio el latido de su propio corazón.",
+        "verdad_exegetica": "**Verdad Exegética:** Lo que la viuda ofreció no fue una porción de sus recursos, sino **la materia misma de su vida**. Jesús declara que la verdadera ofrenda no se mide en monedas, sino en **cuánto de tu existencia viva estás dispuesto a soltar**."
+      },
+      {
+        "numero": 2,
+        "titulo": "lo que sobra\" / \"abundancia",
+        "cita_biblica": "Marcos 12:44 – \"todos han echado de lo que les sobra\"",
+        "termino_griego": "περίσσευμα (transliterado: *perísseuma*)",
+        "analisis": "**Análisis del significado original:** *Perísseuma* viene de *perissós*, que significa \"excedente, sobrante, lo que está de más\". En el griego del Nuevo Testamento, este término describe **lo que queda después de cubrir lo necesario**. Es el vino que sobra en la copa después de saciar la sed. Es el dinero que no duele perder. Los ricos echaron su *perísseuma* – su \"demás\". La viuda, en cambio, no tenía *perísseuma*; solo tenía *bíos* (vida). Y ofreció su *bíos*.",
+        "verdad_exegetica": "**Verdad Exegética:** Dios no necesita tu excedente. El excedente no cuesta nada. Lo que él observa es **si tu ofrenda te cuesta sueño, te cuesta paz, te cuesta la certeza del próximo plato de comida**. Donde no hay *perísseuma*, solo *bíos*, ahí comienza la verdadera adoración."
+      },
+      {
+        "numero": 3,
+        "titulo": "blanca",
+        "cita_biblica": "Marcos 12:42 – \"echó dos blancas, que es un cuadrante\"",
+        "termino_griego": "λεπτόν (transliterado: *leptón*; plural: *lepta*)",
+        "analisis": "**Análisis del significado original:** *Leptón* significa literalmente \"delgado\", \"diminuto\", \"desgastado\". Era la moneda de bronce más pequeña en circulación en Judea. Su valor era 1/128 de un denario (un denario = salario de un día). Para que te hagas una idea: con dos *lepta* no comprabas ni un pan para un día. Los arqueólogos han descubierto *lepta* acuñados por los asmoneos (un siglo antes de Cristo) que seguían circulando porque la gente pobre no podía permitirse cambiar monedas. Es probable que estas dos *lepta* de la viuda fueran **monedas viejas, desgastadas, casi ilegibles** – el último rescoldo de una vida empobrecida.",
+        "verdad_exegetica": "**Verdad Exegética:** Dios no exige monedas nuevas ni ofrendas presentables. Él toma **tus dos \"delgadas\" monedas desgastadas por la vida** y las declara más valiosas que todo el oro del Templo. Lo que el mundo desprecia por diminuto, el Reino lo exalta como gigante."
+      }
+    ],
+    "dato_mentor": "El *quadrans* (la moneda romana que Marcos usa como equivalente del *leptón*) era tan insignificante que en Roma se usaba como **propina para los barrenderos del foro**. Pero había un detalle explosivo: algunos *lepta* tenían inscripciones de reyes asmoneos que se declaraban \"sumos sacerdotes\", algo que los fariseos consideraban usurpación. Si la viuda ofreció esas monedas, su ofrenda era técnicamente **impura según los estándares más estrictos**. Jesús no solo la aprueba; la pone como ejemplo supremo. Porque Dios no mira la pureza ceremonial de tu moneda, sino la entrega de tu corazón."
+  },
+  "parte_3": {
+    "titulo": "El Aterrizaje (Vida y Aplicación)",
+    "verdad_central": "Dios no mide tu ofrenda por su cantidad, sino por **lo que te cuesta**. Una ofrenda que no duele, no es ofrenda; es excedente. La verdadera adoración no se calcula desde lo que te sobra, sino desde lo que **vives**.",
+    "punto_tension": "Si Dios valora más dos moneditas que grandes cantidades, entonces **el sistema económico del Reino es completamente opuesto al del mundo**. Esto confronta nuestra necesidad de estatus, de reconocimiento, de \"dar para que me vean\". La tensión es: ¿estoy dispuesto a dar hasta que duela, sin que nadie lo sepa, y confiar que Dios lo ve?",
+    "devocional": "Hermano, hermana, probablemente no eres una viuda pobre en el Templo de Jerusalén. Pero tienes tus dos *lepta*. Puede ser ese tiempo que nadie ve, que dedicas a orar por otros mientras todos duermen. Puede ser ese dinero que das en secreto, sin deducirlo de impuestos, sin que nadie te aplauda. Puede ser ese perdón que ofreces cuando la otra persona no lo merece y ni siquiera lo pide.\n\nLa viuda no hizo un espectáculo. No llamó a los discípulos. No pronunció un discurso. Simplemente **abrió la mano**. Y Jesús, que estaba sentado observando, la vio. No necesitó que ella levantara la voz. Sus dos moneditas sonaron más fuerte en el corazón de Dios que todas las trompetas de los fariseos.\n\nTú no necesitas una plataforma. Necesitas abrir la mano. Lo que sea que tengas – dos horas, dos monedas, dos palabras de aliento – es suficiente si viene de tu *bíos*, no de tu *perísseuma*.",
+    "examen": [],
+    "pasos_practicos": [
+      "**La ofrenda invisible:** Elige algo que normalmente no ofrecerías porque \"es muy poco\". Pueden ser 10 minutos de tu mañana para interceder por un vecino. Dáselo a Dios en secreto. No lo publiques. No lo cuentes. Observa cómo Dios usa tu poco.",
+      "**Auditoría de excedente:** Haz una lista de tres cosas que das habitualmente que NO te cuestan (tiempo que sobra, dinero que no necesitas, ayuda que no te incomoda). Al lado, escribe una ofrenda equivalente que SÍ te cueste. Comprométete a hacer esa segunda esta semana.",
+      "**El ejercicio del *leptón***: Toma dos monedas pequeñas (las que tengas a mano). Ponlas en un lugar visible en tu casa. Cada vez que las veas, di en voz alta: \"Dios, esto es pequeño. Pero es todo lo que tengo hoy. Tómalo.\"",
+      "**Ayuno de reconocimiento:** Un día entero sin recibir ni buscar ningún tipo de reconocimiento por lo que das o haces. Si alguien te agradece, redirige: \"Dios es bueno\". Si nadie ve lo que haces, celebra internamente: \"Bien, esto sí es ofrenda\".",
+      "**Da desde tu *bíos*, no desde tu *perísseuma***: Identifica algo que realmente necesitas para ti (una hora de descanso, un dinero que habías ahorrado para un gusto, un objeto que amas). Dáselo a alguien esta semana. Literalmente. Duele. Así debe ser."
+    ],
+    "oracion": "Padre, me presento contigo con mis dos moneditas. Son pequeñas. Son desgastadas. El mundo las pisaría sin mirarlas. Pero tú estás sentado, observando, y me ves.\n\nPerdón por las veces que he dado desde mi abundancia cómoda, aplaudiéndome a mí mismo. Perdón por retener mi *bíos* por miedo, por no confiar que tú sostienes mi vida cuando abro la mano.\n\nHoy quiero ser como esa viuda. No tengo mucho. Pero lo que tengo – mi tiempo, mi dinero, mi orgullo, mis planes – te lo entrego. No para que me vean. No para sentirme generoso. Sino porque tú me viste primero.\n\nToma mis dos *lepta*. Multiplícalos en tu Reino. Y que cuando suene la última trompeta, se oiga el eco de mi mano abierta.\n\nEn el nombre de Jesús, que se vació a sí mismo siendo rico, para que nosotros, siendo pobres, fuésemos enriquecidos. Amén.",
+    "dato_mentor": "En la literatura rabínica, existe una discusión sobre si una viuda pobre estaba **exenta** de la ofrenda del Templo porque no tenía \"capacidad económica\" (Deuteronomio 16:17). Muchos escribas enseñaban que los pobres no estaban obligados a dar. Esta viuda no solo dio voluntariamente, sino que dio **todo**. Rompió la ley religiosa por exceso de devoción. Jesús no la corrige por \"irresponsable financiera\". La exalta como el estándar del Reino. Porque en el Reino de Dios, la lógica no es \"dar hasta que no duela\", sino \"dar hasta que duela, y luego dar un poco más\"."
+  }
+}

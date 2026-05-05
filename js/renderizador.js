@@ -1,7 +1,6 @@
 // Función para convertir **texto** a <strong>texto</strong>
 function formatearNegritas(texto) {
     if (!texto) return '';
-    // Reemplaza **texto** por <strong>texto</strong>
     return texto.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
 }
 
@@ -36,10 +35,11 @@ function renderizarEstudio(data) {
             if (ctx.conexiones_NT && ctx.conexiones_NT.length) {
                 html += `<div class="campo"><div class="campo-label">✝️ Conexiones NT</div><div class="campo-texto"><ul>${ctx.conexiones_NT.map(c => `<li>${formatearNegritas(c)}</li>`).join('')}</ul></div></div>`;
             }
+            if (ctx.dato_mentor) html += `<div class="campo"><div class="campo-label">💡 Dato del Mentor</div><div class="campo-texto">${formatearNegritas(ctx.dato_mentor)}</div></div>`;
             html += `</div>`;
         }
         
-        // Lente del Lector (posturas)
+        // Lente del Lector (posturas) - solo para Apocalipsis
         if (parte1.secciones.lente_lector) {
             const ll = parte1.secciones.lente_lector;
             html += `<div class="seccion"><div class="seccion-titulo">👁️ Lente del Lector</div>`;
@@ -58,7 +58,19 @@ function renderizarEstudio(data) {
             html += `</div>`;
         }
         
-        if (parte1.secciones.dato_mentor) {
+        // Armonización - solo para Vida de Jesús
+        if (parte1.secciones.armonizacion) {
+            const arm = parte1.secciones.armonizacion;
+            html += `<div class="seccion"><div class="seccion-titulo">🔗 Armonización de los Evangelios</div>`;
+            if (arm.texto_continuo) html += `<div class="campo"><div class="campo-label">Texto armonizado</div><div class="campo-texto">${formatearNegritas(arm.texto_continuo).replace(/\n/g, '<br>')}</div></div>`;
+            if (arm.fuentes && arm.fuentes.length) {
+                html += `<div class="campo"><div class="campo-label">Fuentes</div><div class="campo-texto"><ul>${arm.fuentes.map(f => `<li><strong>${f.nota}:</strong> ${f.referencia}</li>`).join('')}</ul></div></div>`;
+            }
+            html += `</div>`;
+        }
+        
+        // Dato del Mentor de la Parte 1 (si está fuera de contextos)
+        if (parte1.secciones.dato_mentor && !parte1.secciones.contextos?.dato_mentor) {
             html += `<div class="campo"><div class="campo-label">💡 Dato del Mentor</div><div class="campo-texto">${formatearNegritas(parte1.secciones.dato_mentor)}</div></div>`;
         }
         
@@ -79,6 +91,7 @@ function renderizarEstudio(data) {
                 </div>
             `;
         });
+        // Dato del Mentor de la Parte 2 (agregado)
         if (parte2.dato_mentor) html += `<div class="campo"><div class="campo-label">💡 Dato del Mentor</div><div class="campo-texto">${formatearNegritas(parte2.dato_mentor)}</div></div>`;
         html += `</div>`;
     }
