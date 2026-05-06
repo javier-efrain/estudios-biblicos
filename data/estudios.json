@@ -7,7 +7,7 @@
           "id": "apocalipsis-1-1-8",
           "referencia": "Apocalipsis 1:1-8",
           "titulo": "La revelación que nos revela",
-          "imagen": "https://placehold.co/600x400/1e3c72/white?text=Apocalipsis+1:1-8"
+          "imagen": "magenes/apocalipsis/Apocalipsis-1-1-8-miniatura.jpg"
         },
         {
           "id": "apocalipsis-1-9-20",
@@ -32,6 +32,12 @@
           "referencia": "Apocalipsis 2:12-17",
           "titulo": "Dónde mora Satanás",
           "imagen": "https://placehold.co/600x400/1e3c72/white?text=Apocalipsis+2:12-17"
+        },
+        {
+          "id": "apocalipsis-2-18-29",
+          "referencia": "Apocalipsis 2:18-29",
+          "titulo": "La paciencia que se volvió complicidad",
+          "imagen": "https://placehold.co/600x400/1e3c72/white?text=Apocalipsis+2:18-29"
         }
       ]
     },
