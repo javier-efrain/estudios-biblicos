@@ -204,3 +204,26 @@ body {
         font-size: 1.1rem;
     }
 }
+
+/* Banner del estudio */
+.estudio-banner {
+    width: 100%;
+    margin-bottom: 24px;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: var(--card-shadow);
+}
+
+.banner-imagen {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    max-height: 300px;
+}
+
+@media (max-width: 640px) {
+    .banner-imagen {
+        max-height: 180px;
+    }
+}

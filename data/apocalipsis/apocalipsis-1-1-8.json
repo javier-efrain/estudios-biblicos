@@ -5,7 +5,8 @@
     "titulo": "La revelación que nos revela",
     "referencia": "Apocalipsis 1:1-8",
     "categoria": "apocalipsis",
-    "orden": 1
+    "orden": 1,
+    "banner": "imagenes/apocalipsis/Apocalipsis-1-1-8-miniatura.jpg"
   },
   "modulos": {
     "tiene_posturas": true,

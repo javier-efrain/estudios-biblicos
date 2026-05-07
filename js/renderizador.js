@@ -10,7 +10,19 @@ function renderizarEstudio(data) {
     const parte2 = data.parte_2;
     const parte3 = data.parte_3;
     
-    let html = `
+    let html = '';
+    
+    // BANNER (si existe)
+    if (meta.banner) {
+        html += `
+            <div class="estudio-banner">
+                <img src="${meta.banner}" alt="${meta.titulo}" class="banner-imagen">
+            </div>
+        `;
+    }
+    
+    // TÍTULO Y REFERENCIA
+    html += `
         <div class="estudio-titulo">${meta.titulo || ''}</div>
         <div class="estudio-referencia">${meta.referencia || ''}</div>
     `;
@@ -69,7 +81,7 @@ function renderizarEstudio(data) {
             html += `</div>`;
         }
         
-        // Dato del Mentor de la Parte 1 (si está fuera de contextos)
+        // Dato del Mentor de la Parte 1
         if (parte1.secciones.dato_mentor && !parte1.secciones.contextos?.dato_mentor) {
             html += `<div class="campo"><div class="campo-label">💡 Dato del Mentor</div><div class="campo-texto">${formatearNegritas(parte1.secciones.dato_mentor)}</div></div>`;
         }
@@ -91,7 +103,6 @@ function renderizarEstudio(data) {
                 </div>
             `;
         });
-        // Dato del Mentor de la Parte 2 (agregado)
         if (parte2.dato_mentor) html += `<div class="campo"><div class="campo-label">💡 Dato del Mentor</div><div class="campo-texto">${formatearNegritas(parte2.dato_mentor)}</div></div>`;
         html += `</div>`;
     }
